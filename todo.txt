@@ -7,3 +7,4 @@
 *TODO*: change timedelta to integer for better size on SQL import
 *TODO*: export to postgreSQL to use PowerBI as a secondary visualization tool as a possible workflow
 *TODO*: Jupyter notebook to showcase directly how the data is being manipulated
+*TODO*: create unit tests for functions for fun
