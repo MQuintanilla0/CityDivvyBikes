@@ -1,0 +1,9 @@
+*TODO*: clean data for negative values in length_time
+*TODO*: analyze deciles of ride length
+*TODO*: create  normalized data with confidence intervals so we can clean the extreme outliers (ride length > 5000 minutes ¿¿¿???)
+*TODO*: piechart per year member casual
+*TODO*: organize everything for dash, plotly using functios
+*TODO*: use Dash for a plotly dynamic dashboard
+*TODO*: change timedelta to integer for better size on SQL import
+*TODO*: export to postgreSQL to use PowerBI as a secondary visualization tool as a possible workflow
+*TODO*: Jupyter notebook to showcase directly how the data is being manipulated

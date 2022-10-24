@@ -1,0 +1,8 @@
+dash==2.6.2
+pandas==1.5.0
+seaborn==0.12.0
+openpyxl==3.0.10
+SQLAlchemy==1.4.42
+pg8000==1.29.2
+psycopg2==2.9.4
+python-dotenv==0.21.0

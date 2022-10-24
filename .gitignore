@@ -1,0 +1,9 @@
+.env
+.vscode/
+CityBikesDivvy/
+__pycache__/
+randomWIP/
+misc/
+aggregatedBikesYear.csv
+aggregatedBikesYear2021.csv
+aggregatedBikesYear2022.csv
