@@ -8,7 +8,7 @@ I have uploaded a draft trying to import the data and aggregated it on a few csv
 a few key variables like ride time in minutes, the day of the week where a certain ride started, new columns for pivot tables regarding month-day values
 
 There is still work to do but its an ongoing project to showcase some of my skills, currently I have used Pandas and Numpy for data manipulation,
-[Tableau](https://public.tableau.com/app/profile/matias.quintanilla/viz/test_16661905807670/Dashboard13) for quick visualization 
+[Tableau](https://public.tableau.com/views/test_16661905807670/Dashboard13?:language=en-US&:display_count=n&:origin=viz_share_link) for quick visualization 
 and sqlalchemy for importing it to my own PostgreSQL installation, also there is the usage of dotenv to create a few personal variables for login.
 
 The funcLocal folder has the functions regarding the project and the DataSource shows how the files should be put in the directory to be able to read them
