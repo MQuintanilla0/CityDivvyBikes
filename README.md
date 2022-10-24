@@ -1,7 +1,7 @@
 # CityDivvyBikes
 Case study project for Google Data Analytics, consists on reading the data from https://divvy-tripdata.s3.amazonaws.com/index.html.
 
-The idea is cleaning, processing, analyzing and visualizing the data of the last 12 months of bikes rides to get an idea to improve the business related
+The idea is cleaning, processing, analyzing and visualizing the data of the last 12 months of bikes rides (202110 to 202210) to get an idea to improve the business related
 to the cyclists membership. The company wants to increase the number of cyclists taking an annual membership instead of a casual riders.
 
 I have uploaded a draft trying to import the data and aggregated it on a few csv files, imported it to SQL and also calculated and introduced
